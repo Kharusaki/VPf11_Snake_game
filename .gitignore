@@ -1,0 +1,10 @@
+# окружение и кэш Python
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# локальные артефакты
+*.log
+.env
+desktop.ini
